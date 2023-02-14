@@ -238,7 +238,7 @@ class _SignOutPageState extends State<SignOutPage> {
                   child: MouseRegion(
                     cursor: SystemMouseCursors.click,
                     child: Text(
-                      "Sign In",
+                      "SignIn here",
                       style: TextStyle(
                         fontSize: 10,
                         fontFamily: 'DM Sans',
